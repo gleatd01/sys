@@ -14,7 +14,7 @@
         {
           "foreground": "p:os",
           "style": "plain",
-          "template": "<\u250c\u2500{{.Icon}} ",
+          "template": "\u250c\u2500{{.Icon}} ",
           "type": "os"
         },
         {
