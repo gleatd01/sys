@@ -11,7 +11,6 @@
       "type": "prompt",
       "alignment": "left",
       "segments": [
-        "segments": [
         {
           "foreground": "p:os",
           "style": "plain",
