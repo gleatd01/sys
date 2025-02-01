@@ -14,14 +14,14 @@
         {
           "foreground": "p:os",
           "style": "plain",
-          "template": "<{{.Icon}} ",
+          "template": "<\u250c\u2500{{.Icon}} ",
           "type": "os"
         },
         {
           "properties": {
             "display_host": true
           },
-          "template": "<{{ if .Root }}lightBlue{{ else }}green{{ end }}>\u250c\u2500\u2500(</>{{ .UserName }}{{ if .Root }}💀{{ else }}\u327f{{ end }}{{ .HostName }}<{{ if .Root }}lightBlue{{ else }}green{{ end }}>)</>",
+          "template": "<{{ if .Root }}lightBlue{{ else }}green{{ end }}>\u2500(</>{{ .UserName }}{{ if .Root }}💀{{ else }}\u327f{{ end }}{{ .HostName }}<{{ if .Root }}lightBlue{{ else }}green{{ end }}>)</>",
           "foreground": "lightBlue",
           "type": "session",
           "style": "plain",
