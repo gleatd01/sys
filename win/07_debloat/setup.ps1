@@ -1,0 +1,6 @@
+winget uninstall "Game Bar"
+winget uninstall "Phone Link"
+winget uninstall "Xbox Identity Provider"
+winget uninstall "Xbox Game Bar Plugin"
+winget uninstall "Xbox TCUI"
+winget uninstall "Mixed Reality Portal"
