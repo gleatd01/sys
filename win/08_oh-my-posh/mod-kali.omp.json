@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "upgrade": {
     "source": "cdn",
-    "interval": "168h",
-    "auto": false,
+    "interval": "84h",
+    "auto": true,
     "notice": false
   },
   "blocks": [
